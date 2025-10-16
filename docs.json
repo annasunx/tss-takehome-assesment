@@ -62,7 +62,7 @@
               "pages":[
               "fr/v1/index",
               "fr/v1/getting-started",
-              "/frv1/integrations",
+              "fr/v1/integrations",
               "fr/v1/pricing",
               "fr/v1/troubleshooting",
               "fr/v1/analytics",
