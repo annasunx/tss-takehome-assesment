@@ -141,7 +141,7 @@ Now that you've mastered the navigation structure, it's time to enhance the cont
 
 ### Task 3 Deliverables
 
-**Deployed documentation URL** - Share the live link to your deployed Mintlify site
+**Deployed documentation URL** - Share the live link to your deployed Mintlify site: https://mintlify-3718a97e.mintlify.app/v1
 
 ---
 
