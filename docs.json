@@ -8,14 +8,11 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-  "languages": [
+   "navigation": {
+    "versions": [
       {
-        "language": "fr",
-        "versions": [
-          {
-          "version": "V1",
-          "groups": [
+        "version": "English V1",
+         "groups": [
             {
              "group":"V1",
               "pages":[
@@ -30,50 +27,9 @@
               ]
             }
           ]
-        },
-        {
-          "version": "V2",
-          "groups": [
-            {
-              "group":"V2",
-              "pages":[
-              "fr/v2/index",
-              "fr/v2/getting-started",
-              "fr/v2/integrations",
-              "fr/v2/pricing",
-              "fr/v2/troubleshooting",
-              "fr/v2/analytics",
-              "fr/v2/quality",
-              "fr/v2/inventory"
-              ]
-            }
-          ]
-        }
-       ]  
       },
       {
-        "language": "fr",
-        "versions": [
-          {
-          "version": "V1",
-          "groups": [
-            {
-             "group":"V1",
-              "pages":[
-              "fr/v1/index",
-              "fr/v1/getting-started",
-              "fr/v1/integrations",
-              "fr/v1/pricing",
-              "fr/v1/troubleshooting",
-              "fr/v1/analytics",
-              "fr/v1/quality",
-              "fr/v1/inventory"
-              ]
-            }
-          ]
-        },
-        {
-          "version": "V2",
+        "version": "English V2",
           "groups": [
             {
               "group":"V2",
@@ -89,11 +45,9 @@
               ]
             }
           ]
-        }
-       ]  
-      }
+      } 
     ]
-  },
+  }
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
