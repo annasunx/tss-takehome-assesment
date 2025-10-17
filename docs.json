@@ -45,7 +45,25 @@
               ]
             }
           ]
-      } 
+      },
+      {
+        "version": "French V1",
+         "groups": [
+            {
+             "group":"V1",
+              "pages":[
+              "fr/v1/index",
+              "fr/v1/getting-started",
+              "fr/v1/integrations",
+              "fr/v1/pricing",
+              "fr/v1/troubleshooting",
+              "fr/v1/analytics",
+              "fr/v1/quality",
+              "fr/v1/inventory"
+              ]
+            }
+          ]
+      }
     ]
   },
   "logo": {
